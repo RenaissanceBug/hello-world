@@ -1,2 +1,2 @@
-#lang racket
+#lang racket/base
 "Hello world"
